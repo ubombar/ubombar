@@ -1,4 +1,4 @@
-I like wiritng programs.
+## I like writing programs.
 
 <!--
 ### Hi there 👋
