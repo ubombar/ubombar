@@ -17,7 +17,7 @@
   </p>
 
   <p>
-    I am fluent with Go and Python, but I have experience with other major languages and other technologies! Feel free to check my <a href="">CV</a>.
+    I am fluent with Go and Python, but I have experience with other major languages and other technologies! Feel free to check my <a href="https://github.com/ubombar/ubombar/blob/main/Ufuk%20Bombar%20CV%2011%20Sep.pdf">CV</a>.
   </p>
 </p>
 
