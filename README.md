@@ -13,7 +13,7 @@
 
   Hi there✋!
   <p>
-  My name is Ufuk! I am a developer who loves to collaborate to build new technologies. Currently I am working on <a href="https://www.edge-net.org/">EdgeNet Software</a> which is a globally distributed edge cloud for Internet researchers. 
+  My name is Ufuk! I am a developer who loves to collaborate to build new technologies. Currently I am working on <a href="https://www.edge-net.org/">EdgeNet Software</a> which is a globally distributed edge cloud for Internet researchers. Feel free to check it out!
   </p>
 
   <p>
