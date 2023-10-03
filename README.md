@@ -11,15 +11,23 @@
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ubombar&theme=dark_icons=true"/>
 
-  Hi there✋!
+  Hi there ✋!
   <p>
-  My name is Ufuk! I am a developer who loves to collaborate to build new technologies. Currently I am working on <a href="https://www.edge-net.org/">EdgeNet Software</a> which is a globally distributed edge cloud for Internet researchers. Feel free to check it out!
+  My name is Ufuk! I am a developer who loves to collaborate to build new technologies. Currently, I am working on <a href="https://www.edge-net.org/">EdgeNet Software</a> which is a globally distributed edge cloud for Internet researchers. Feel free to check it out!
   </p>
 
   <p>
-    I am fluent with Go and Python, but I have experience with other major languages and other technologies! Feel free to check my <a href="https://github.com/ubombar/ubombar/blob/main/Ufuk%20Bombar%20CV%2011%20Sep.pdf">CV</a>.
+   Right now, I am doing my Master's degree at Sorbonne University in distributed computing and computer vision. For more information, you can check out my <a href="https://github.com/ubombar/ubombar/blob/main/Ufuk%20Bombar%20CV%2011%20Sep.pdf">CV</a>!
+  </p>
+
+  <p>
+    You can see the technologies I have been using below 👇
   </p>
 </p>
+
+
+
+
 
 
 
