@@ -25,7 +25,7 @@
   </p>
 
   <p>
-   Right now, I am doing my Master's degree at Sorbonne University in distributed computing and computer vision. For more information, you can check out my <a href="https://github.com/ubombar/ubombar/blob/main/Ufuk%20Bombar%20CV%2011%20Sep.pdf">CV</a>!
+   Right now, I am doing my Master's degree at Sorbonne University in distributed computing and computer vision. For more information, you can check out my <a href="https://github.com/ubombar/ubombar/blob/main/Ufuk%20Bombar%20CV%203%20Oct.pdf">CV</a>!
   </p>
 
   <p>
