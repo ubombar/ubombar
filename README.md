@@ -25,7 +25,7 @@
   </p>
 
   <p>
-   Right now, I am doing my Master's degree at Sorbonne University in distributed computing and computer vision. For more information, you can check out my <a href="https://github.com/ubombar/ubombar/blob/main/Ufuk%20Bombar%20CV%203%20Oct.pdf">CV</a>!
+   Right now, I am doing my Master's degree at Sorbonne University in distributed computing and computer vision. For more information, you can check out my <a href="https://ufukbombar.com/cv.pdf">CV</a>!
   </p>
 
   <p>
@@ -66,6 +66,7 @@
   ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+  ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   
 
 <!--
