@@ -26,6 +26,8 @@
 
   <p>
    Right now, I am doing my Master's degree at Sorbonne University in distributed computing and computer vision. For more information, you can check out my <a href="https://ufukbombar.com/cv.pdf">CV</a>!
+
+   Pour les opportunités en France, n'hésitez pas à consulter la <a href="https://ufukbombar.com/cv_fr.pdf">version française de mon CV</a> !
   </p>
 
   <p>
