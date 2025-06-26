@@ -21,7 +21,7 @@ My research involves end-to-end development of measurement platforms, from **dat
 
 ## 💻 Technical Skills
 
-- **Languages**: Go 🦫, Rust 🦀, Bash 🐚, Python 🐍, JavaScript, OCaml, C
+- **Languages**: Go 🦫, Rust 🦀, Bash 🐚, Python 🐍, C 🖥️, JavaScript, OCaml, Lua
 - **Dev Tools**: NeoVim, Git, Docker, Nix, Kubernetes (CRDs & Operators), Make
 - **DB/Infra**: ClickHouse, SQLite, PostgreSQL, Redis, MinIO
 - **Web**: HTMX, Go Templates
