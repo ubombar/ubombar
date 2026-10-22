@@ -1,6 +1,6 @@
 # 👋 Hi, I’m _ubombar_
 
-🎓 PhD Student in Internet Measurements, Sorbonne University (LIP6) & Télécom Paris (LINCS)  
+🎓 PhD Student in Internet Measurements, Sorbonne University (LIP6) & LINCS  
 🌐 Researching Internet Measurements — BGP, Routing Security, and Large-Scale Systems  
 🛠️ Software Engineer | Systems Thinker | CLI Enthusiast  
 🇫🇷 Based in Paris, France
